@@ -1,0 +1,7 @@
+{
+  "name": "Copy of MissionBridge AI",
+  "description": "A career intelligence platform for U.S. service members to translate military experience into high-earning civilian careers using Gemini AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
